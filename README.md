@@ -11,6 +11,9 @@ https://wokwi.com/projects/441914310935802881
 *link do thinkspeak*
 https://thingspeak.mathworks.com/channels/3073129
 
+*link do vídeo no Youtube*
+https://youtu.be/cw1ySs5OPgI?si=hpSoNBaXVnBPNqEE
+
 ------------------------------------------------------------------------------------------------
 
 *Descrição do Projeto*
